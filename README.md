@@ -13,4 +13,4 @@ https://github.com/carol-costa/carol-costa.github.io/
 
 E minha página inicial customizada em:
 
-http://dantnguyen.github.io/
+http://carol-costa.github.io/
