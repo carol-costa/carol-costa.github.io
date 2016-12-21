@@ -1,5 +1,4 @@
 # carol-costa.github.io
-=======================
 
 ## Olá Mundo!
 
